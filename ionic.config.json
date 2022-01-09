@@ -1,0 +1,7 @@
+{
+  "name": "group-organizer-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
