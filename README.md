@@ -10,3 +10,5 @@ npm install -g @ionic/cli
 npm start
 
 ## to start application you need to set up below environment variables
+
+react-cookie - to save jwt token in cookies
